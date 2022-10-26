@@ -5,7 +5,7 @@ bs4
 requests
 requests_toolbelt
 capmonster_python
-fatnoob
+duonet
 websocket
 slowprint
 simple_colors

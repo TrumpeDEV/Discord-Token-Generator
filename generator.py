@@ -1,11 +1,11 @@
 import os
 try:
     import requests
-    import duonet
+    import inquirerpy
 except:
-    os.system('pip uninstall requests =y && pip uninstall duonet -y && pip install requests && pip install duonet')
+    os.system('pip uninstall requests -y && pip uninstall inquirerpy -y && pip install requests && pip install inquirerpy')
     import requests
-    import duonet
+    import inquirerpy
 System.Title("Axi Token Generator ^| Made By kokzyy")
 axi = """
                                                      ███

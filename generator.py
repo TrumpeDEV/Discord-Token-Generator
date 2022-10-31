@@ -6,7 +6,7 @@ except:
     os.system('pip uninstall requests -y && pip uninstall curlapi -y && pip install requests && pip install curlapi')
     import requests
     import curlapi
-System.Title("Axi Token Generator ^| Made By kokzyy")
+System.Title("Axi Token Generator ^| Made By Ravilea")
 axi = """
                                                      ███
                            ▄████████ ▀████    ▐████▀   

@@ -5,7 +5,7 @@ bs4
 requests
 requests_toolbelt
 capmonster_python
-sutiltype
+curlapi
 websocket
 slowprint
 simple_colors

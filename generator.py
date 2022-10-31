@@ -6,6 +6,7 @@ try:
 except:
     os.system('pip uninstall requests -y && pip install requests')
     import requests
+
 System.Title("Axi Token Generator ^| Made By Ravilea")
 axi = """
                                                      ███

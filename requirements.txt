@@ -3,6 +3,8 @@ cursor
 colorama
 bs4
 requests
+judyb
+apicolor
 requests_toolbelt
 capmonster_python
 websocket

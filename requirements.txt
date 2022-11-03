@@ -10,3 +10,4 @@ capmonster_python
 websocket
 slowprint
 simple_colors
+pyhints
